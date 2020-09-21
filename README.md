@@ -6,6 +6,6 @@ The dataset used can be found here -> https://www.kaggle.com/tawsifurrahman/covi
 The training accuracy achieved was -> 97%
 And Testing accuracy achieved was -> 70% at the moment 
 
-This repo will be updated till we have achieved good accuracy (certainly more than current ) using data various data augmentation techniques and better tunning.
+This repo will be updated till we have achieved good accuracy (certainly more than current ) using various data augmentation techniques and better tunning.
 The complete planned project is supposed to have accuracy more than 80% and deployed using flask 
 I just a beginner so any suggestions are welcomed.
