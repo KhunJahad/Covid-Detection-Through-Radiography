@@ -6,5 +6,5 @@ The dataset used can be found here -> https://www.kaggle.com/tawsifurrahman/covi
 And Testing accuracy achieved was -> 96% +  
 
 
-Well we can't possibly use this model even in completed state in real life testing because data we have here is very small. But it is on similar lines to the actual deal and will be accurate for sure for whatever small data we had for our disposal.
+Well we can't possibly use this model even  in real life testing because data we have here is very small. But it is on similar lines to the actual deal and will be accurate for sure for whatever small data we had for our disposal.
 I just a beginner so any suggestions are welcomed.
